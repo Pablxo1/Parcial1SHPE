@@ -1,0 +1,6 @@
+D:\SIS457\sis457_2025_1\Parcial1SHPE\Parcial1Lib\bin\Debug\Parcial1Lib.dll
+D:\SIS457\sis457_2025_1\Parcial1SHPE\Parcial1Lib\bin\Debug\Parcial1Lib.pdb
+D:\SIS457\sis457_2025_1\Parcial1SHPE\Parcial1Lib\obj\Debug\Parcial1Lib.csproj.AssemblyReference.cache
+D:\SIS457\sis457_2025_1\Parcial1SHPE\Parcial1Lib\obj\Debug\Parcial1Lib.csproj.CoreCompileInputs.cache
+D:\SIS457\sis457_2025_1\Parcial1SHPE\Parcial1Lib\obj\Debug\Parcial1Lib.dll
+D:\SIS457\sis457_2025_1\Parcial1SHPE\Parcial1Lib\obj\Debug\Parcial1Lib.pdb
